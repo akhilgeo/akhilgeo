@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SAP**
 
-- 👨‍💻 All of my projects are available at [akhil.one](akhil.one)
+- 👨‍💻 All of my projects are available at [https://akhil.one](akhil.one)
 
 - 📝 I regularly write articles on [akhilgeorge.com](akhilgeorge.com)
 
