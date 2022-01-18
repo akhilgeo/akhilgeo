@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [akhil.one](https://akhil.one)
 
-- 📝 I regularly write articles on [akhilgeorge.com](akhilgeorge.com)
+- 📝 I regularly write articles on [akhilgeorge.com](https://akhilgeorge.com)
 
 - 📫 How to reach me **mail@akhilgeorge.com**
 
-- 📄 Know about my experiences [akhilgeorge.com/about](akhilgeorge.com/about)
+- 📄 Know about my experiences [akhilgeorge.com/about](https://akhilgeorge.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
